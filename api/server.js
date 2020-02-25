@@ -21,7 +21,7 @@ server.use(
   session({
     resave: false,
     saveUninitialized: false,
-    secret: "Be strong enough to be gentle",
+    secret: "I have a cookie",
     cookie: {
       httpOnly: true
     },
